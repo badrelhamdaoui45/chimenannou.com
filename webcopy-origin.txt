@@ -1,0 +1,2300 @@
+Uri: http://chimenannou.com/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/2020/05/11/bonjour-tout-le-monde/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\2020\05\11\bonjour-tout-le-monde\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/2020/05/11/bonjour-tout-le-monde/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\2020\05\11\bonjour-tout-le-monde\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://chimenannou.com/index.php/author/admin5917/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\author\admin5917\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/author/admin5917/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\author\admin5917\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://chimenannou.com/index.php/category/non-classe/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\category\non-classe\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/category/non-classe/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\category\non-classe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://chimenannou.com/index.php/comments/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://chimenannou.com/index.php/contexte-et-enjeux/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\contexte-et-enjeux\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/contexte-et-enjeux/ateliers/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\contexte-et-enjeux\ateliers\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/contexte-et-enjeux/qui-sommes-nous/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\contexte-et-enjeux\qui-sommes-nous\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://chimenannou.com/index.php/forum/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\forum\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/forum/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\forum\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://chimenannou.com/index.php/nous-contacter/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\nous-contacter\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/promenade-a-jarry/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-a-jarry\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/promenade-de-belle-plaine/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-de-belle-plaine\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/promenade-de-lapwent/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-de-lapwent\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/promenade-du-raizet/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-du-raizet\index.htm
+Content Type: text/html
+
+Uri: http://chimenannou.com/index.php/wp-json/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2F2020%2F05%2F11%2Fbonjour-tout-le-monde%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2F2020%2F05%2F11%2Fbonjour-tout-le-monde%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fateliers%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fateliers%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fqui-sommes-nous%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fqui-sommes-nous%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fforum%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fforum%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fnous-contacter%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fnous-contacter%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-a-jarry%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-a-jarry%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-belle-plaine%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-belle-plaine%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-lapwent%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-lapwent%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-du-raizet%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=http:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-du-raizet%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/193
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\193
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/242
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\242
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/305
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\305
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/311
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\311
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/317
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\317
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/335
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\335
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/pages/84
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\84
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: http://chimenannou.com/index.php/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://chimenannou.com/wp-admin/css/forms.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-admin/css/l10n.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-admin/css/login.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: http://chimenannou.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://chimenannou.com/wp-admin/js/password-strength-meter.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-admin/js/user-profile.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\css\wpdiscuz-combo.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/img/delete.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\img\delete.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/img/file-icons/delete.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\img\file-icons\delete.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/img/loading.gif
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\img\loading.gif
+Content Type: image/gif
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.0.9
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\js\wpdiscuz-combo.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/border.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\border.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/controls.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\controls.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading.gif
+Content Type: image/gif
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading_background.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading_background.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/overlay.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\overlay.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.0.9
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\css\fa.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.woff2
+Content Type: 
+
+Uri: http://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.0.9
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\style.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/css/theme.bundle.min.css?ver=1.6.97
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\css\theme.bundle.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/assets/js/theme.bundle.min.js?ver=1.6.97
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\js\theme.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-content/themes/mesmerize/style.min.css?ver=1.6.97
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\style.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-1024x1003.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-1024x1003.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-1200x1175.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-1200x1175.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-300x294.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-300x294.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-768x752.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-768x752.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/cropped-milieu-urbain-1-180x180.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\cropped-milieu-urbain-1-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/cropped-milieu-urbain-1-192x192.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\cropped-milieu-urbain-1-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/cropped-milieu-urbain-1-32x32.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\cropped-milieu-urbain-1-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/05/milieu-urbain.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\milieu-urbain.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-1024x725.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-1024x725.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-1526x1080.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-1526x1080.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-300x212.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-300x212.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-768x543.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-768x543.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC00088_pshopé-1.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC00088_pshopé-1.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC01111.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC01111.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC_1053.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC_1053.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC_1123.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC_1123.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC_1199.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC_1199.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC01111-1024x683.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC01111-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-1024x685.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-1613x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-1613x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-300x201.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-768x514.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-1024x685.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-1613x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-1613x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-300x201.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-768x514.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-1024x685.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-1024x685.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-1613x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-1613x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-300x201.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-300x201.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-768x514.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-768x514.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/LogoH3C-Caraibes-300x211.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\LogoH3C-Caraibes-300x211.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/LogoH3C-Caraibes.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\LogoH3C-Caraibes.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-1024x304.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-1024x304.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-1536x457.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-1536x457.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-1920x571.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-1920x571.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-2048x609.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-2048x609.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-300x89.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-300x89.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-768x228.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-768x228.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/logo_vertical-150x150.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\logo_vertical-150x150.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/logo_vertical-300x300.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\logo_vertical-300x300.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/11/logo_vertical.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\logo_vertical.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/adresse-2-300x90.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\adresse-2-300x90.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/adresse-2-768x229.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\adresse-2-768x229.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/adresse-2.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\adresse-2.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Flyer-version-finale-300x212.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Flyer-version-finale-300x212.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Flyer-version-finale-768x543.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Flyer-version-finale-768x543.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Flyer-version-finale.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Flyer-version-finale.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-1024x690.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-1024x690.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-300x202.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-300x202.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-768x517.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-768x517.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-2-1-300x171.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-2-1-300x171.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-2-1.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-2-1.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-1024x726.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1024x726.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-1522x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1522x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-1536x1090.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1536x1090.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-300x213.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-300x213.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-768x545.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-768x545.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/Flyer-atelier-2-300x213.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\Flyer-atelier-2-300x213.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/Flyer-atelier-2-768x545.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\Flyer-atelier-2-768x545.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/Flyer-atelier-2.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\Flyer-atelier-2.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/FLYER-CONTRIB-300x213.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\FLYER-CONTRIB-300x213.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/01/FLYER-CONTRIB.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\FLYER-CONTRIB.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-1024x910.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-1024x910.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-1215x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-1215x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-300x267.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-300x267.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-768x682.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-768x682.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-1024x800.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-1024x800.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-1383x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-1383x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-300x234.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-300x234.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-768x600.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-768x600.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/COUV-copie.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-1024x160.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-1024x160.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-1536x241.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-1536x241.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-1920x301.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-1920x301.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-2048x321.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-2048x321.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-300x47.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-300x47.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-768x120.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-768x120.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-1024x125.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-1024x125.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-1536x188.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-1536x188.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-300x37.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-300x37.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-768x94.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-768x94.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-1024x709.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-1024x709.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-1536x1063.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-1536x1063.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-1560x1080.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-1560x1080.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-2048x1418.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-2048x1418.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-300x208.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-300x208.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-768x532.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-768x532.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-1024x768.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-1440x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-1440x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-300x225.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-768x576.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-1024x768.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-1440x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-1440x1080.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-300x225.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-768x576.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-1022x1536.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-1022x1536.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-1024x1538.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-1024x1538.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-200x300.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-200x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-682x1024.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-682x1024.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-719x1080.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-719x1080.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-768x1154.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-768x1154.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-1536x1022.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-768x511.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10.jpeg
+Content Type: image/jpeg
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-1019x1024.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1019x1024.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-1024x1029.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1024x1029.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-1074x1080.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1074x1080.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-150x150.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-150x150.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-298x300.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-298x300.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-768x772.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-768x772.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01.png
+Content Type: image/png
+
+Uri: http://chimenannou.com/wp-includes/css/buttons.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-includes/css/dashicons.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://chimenannou.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://chimenannou.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://chimenannou.com/wp-includes/js/comment-reply.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/dist/i18n.min.js?ver=4ab02c8fd541b8cfb8952fe260d21f16
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/wp-embed.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/wp-util.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: http://chimenannou.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://chimenannou.com/wp-login.php
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-4.html
+Content Type: text/html
+
+Uri: http://chimenannou.com/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-2.html
+Content Type: text/html
+
+Uri: http://chimenannou.com/wp-login.php?redirect_to=http:%2F%2Fchimenannou.com%2Findex.php%2F2020%2F05%2F11%2Fbonjour-tout-le-monde%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: http://chimenannou.com/wp-login.php?redirect_to=http:%2F%2Fchimenannou.com%2Findex.php%2Fforum%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php.html
+Content Type: text/html
+
+Uri: http://chimenannou.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\chimenannou.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://chimenannou.com/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/2020/05/11/bonjour-tout-le-monde/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\2020\05\11\bonjour-tout-le-monde\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/2020/05/11/bonjour-tout-le-monde/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\2020\05\11\bonjour-tout-le-monde\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://chimenannou.com/index.php/author/admin5917/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\author\admin5917\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/author/admin5917/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\author\admin5917\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://chimenannou.com/index.php/category/non-classe/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\category\non-classe\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/category/non-classe/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\category\non-classe\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://chimenannou.com/index.php/comments/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://chimenannou.com/index.php/contexte-et-enjeux/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\contexte-et-enjeux\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/contexte-et-enjeux/ateliers/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\contexte-et-enjeux\ateliers\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/contexte-et-enjeux/qui-sommes-nous/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\contexte-et-enjeux\qui-sommes-nous\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://chimenannou.com/index.php/forum/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\forum\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/forum/feed/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\forum\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://chimenannou.com/index.php/nous-contacter/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\nous-contacter\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/promenade-a-jarry/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-a-jarry\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/promenade-de-belle-plaine/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-de-belle-plaine\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/promenade-de-lapwent/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-de-lapwent\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/promenade-du-raizet/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\promenade-du-raizet\index-1.htm
+Content Type: text/html
+
+Uri: https://chimenannou.com/index.php/wp-json/
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2F2020%2F05%2F11%2Fbonjour-tout-le-monde%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2F2020%2F05%2F11%2Fbonjour-tout-le-monde%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fateliers%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fateliers%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fqui-sommes-nous%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fcontexte-et-enjeux%2Fqui-sommes-nous%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fforum%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fforum%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fnous-contacter%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fnous-contacter%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-a-jarry%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-a-jarry%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-belle-plaine%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-belle-plaine%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-lapwent%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-de-lapwent%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-du-raizet%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fchimenannou.com%2Findex.php%2Fpromenade-du-raizet%2F&format=xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\categories\1-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\17-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/193
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\193-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\23-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\24-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/242
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\242-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/305
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\305-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/311
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\311-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/317
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\317-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/335
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\335-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/pages/84
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\pages\84-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\posts\1-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/index.php/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\chimenannou.com\index.php\wp-json\wp\v2\users\1-1
+Content Type: application/json
+
+Uri: https://chimenannou.com/wp-admin/css/forms.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\css\forms.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-admin/css/l10n.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\css\l10n.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-admin/css/login.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\css\login.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\images\loading-1.gif
+Content Type: image/gif
+
+Uri: https://chimenannou.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\images\w-logo-blue-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\images\wordpress-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://chimenannou.com/wp-admin/js/password-strength-meter.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-admin/js/user-profile.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-admin\js\user-profile.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\css\wpdiscuz-combo.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/img/delete.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\img\delete-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/img/file-icons/delete.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\img\file-icons\delete-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/img/loading.gif
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\img\loading-1.gif
+Content Type: image/gif
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.0.9
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\js\wpdiscuz-combo.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/border.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\border-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/controls.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\controls-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading-1.gif
+Content Type: image/gif
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading_background.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading_background-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/overlay.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\overlay-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.0.9
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\css\fa.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.woff2
+Content Type: 
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.woff2
+Content Type: 
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.woff2
+Content Type: 
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.svg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.ttf
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.woff2
+Content Type: 
+
+Uri: https://chimenannou.com/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.0.9
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\plugins\wpdiscuz\themes\default\style-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/css/theme.bundle.min.css?ver=1.6.97
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\css\theme.bundle.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-1.woff2
+Content Type: 
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\fonts\fontawesome-webfont-1.woff
+Content Type: application/x-font-woff
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/assets/js/theme.bundle.min.js?ver=1.6.97
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\assets\js\theme.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-content/themes/mesmerize/style.min.css?ver=1.6.97
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\themes\mesmerize\style.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-1024x1003.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-1024x1003-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-1200x1175.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-1200x1175-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-300x294.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-300x294-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1-768x752.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-768x752-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/CHOROGRAPHE_LOGO_RVB_V1.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\CHOROGRAPHE_LOGO_RVB_V1-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/cropped-milieu-urbain-1-180x180.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\cropped-milieu-urbain-1-180x180-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/cropped-milieu-urbain-1-192x192.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\cropped-milieu-urbain-1-192x192-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/05/cropped-milieu-urbain-1-32x32.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\05\cropped-milieu-urbain-1-32x32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-1024x725.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-1024x725-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-1526x1080.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-1526x1080-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-300x212.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-300x212-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5-768x543.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-768x543-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/06/Legende-ChimenAnNou_V5.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\06\Legende-ChimenAnNou_V5-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC00088_pshopé-1.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC00088_pshopé-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC01111.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC01111-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC_1053.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC_1053-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC_1123.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC_1123-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/cropped-DSC_1199.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\cropped-DSC_1199-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-1024x685.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-1024x685-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-1613x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-1613x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-300x201.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-300x201-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1123-768x514.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1123-768x514-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-1024x685.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-1024x685-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-1613x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-1613x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-300x201.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-300x201-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1153-768x514.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1153-768x514-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-1024x685.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-1024x685-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-1613x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-1613x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-300x201.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-300x201-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/DSC_1158-768x514.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\DSC_1158-768x514-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/LogoH3C-Caraibes-300x211.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\LogoH3C-Caraibes-300x211-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/LogoH3C-Caraibes.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\LogoH3C-Caraibes-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-1024x304.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-1024x304-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-1536x457.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-1536x457-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-1920x571.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-1920x571-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-2048x609.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-2048x609-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-300x89.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-300x89-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/Logo_CapExcellence-768x228.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\Logo_CapExcellence-768x228-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/logo_vertical-150x150.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\logo_vertical-150x150-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/logo_vertical-300x300.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\logo_vertical-300x300-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/11/logo_vertical.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\11\logo_vertical-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/adresse-2-300x90.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\adresse-2-300x90-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/adresse-2-768x229.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\adresse-2-768x229-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/adresse-2.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\adresse-2-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Flyer-version-finale-300x212.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Flyer-version-finale-300x212-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Flyer-version-finale-768x543.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Flyer-version-finale-768x543-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Flyer-version-finale.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Flyer-version-finale-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-300x202.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-300x202-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-768x517.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-1-1-768x517-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-2-1-300x171.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-2-1-300x171-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2020/12/Pages-from-presentation-Chimen-An-Nou-Atelier-2-1.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2020\12\Pages-from-presentation-Chimen-An-Nou-Atelier-2-1-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-1024x726.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1024x726-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-1522x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1522x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-1536x1090.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1536x1090-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-300x213.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-300x213-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1-768x545.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-768x545-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/atelier-3-1.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\atelier-3-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/Flyer-atelier-2-300x213.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\Flyer-atelier-2-300x213-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/Flyer-atelier-2-768x545.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\Flyer-atelier-2-768x545-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/Flyer-atelier-2.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\Flyer-atelier-2-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/FLYER-CONTRIB-300x213.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\FLYER-CONTRIB-300x213-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/01/FLYER-CONTRIB.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\01\FLYER-CONTRIB-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-1024x910.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-1024x910-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-1215x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-1215x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-300x267.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-300x267-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv-768x682.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-768x682-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Carnet-Belle-Plaine-Couv.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Carnet-Belle-Plaine-Couv-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-1024x800.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-1024x800-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-1383x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-1383x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-300x234.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-300x234-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/COUV-copie-768x600.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-768x600-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/COUV-copie.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\COUV-copie-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-1024x160.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-1024x160-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-1536x241.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-1536x241-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-1920x301.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-1920x301-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-2048x321.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-2048x321-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-300x47.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-300x47-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/logo-partenaires-tacites-1-768x120.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\logo-partenaires-tacites-1-768x120-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-1024x125.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-1024x125-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-1536x188.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-1536x188-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-300x37.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-300x37-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien-768x94.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-768x94-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/LOGO_soutien.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\LOGO_soutien-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-1024x709.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-1024x709-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-1536x1063.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-1536x1063-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-1560x1080.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-1560x1080-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-2048x1418.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-2048x1418-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-300x208.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-300x208-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2021/05/Plan-Croquis-Raizet-768x532.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2021\05\Plan-Croquis-Raizet-768x532-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-1024x768.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-1024x768-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-1440x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-1440x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-1536x1152-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-2048x1536-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-300x225.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-300x225-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1194-768x576.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1194-768x576-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-1024x768.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-1024x768-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-1440x1080.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-1440x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-1536x1152-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-2048x1536-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-300x225.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-300x225-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/09/IMG_1196-768x576.jpg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\09\IMG_1196-768x576-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-1022x1536.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-1022x1536-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-1024x1538.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-1024x1538-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-200x300.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-200x300-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-682x1024.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-682x1024-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-719x1080.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-719x1080-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01-768x1154.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-768x1154-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img01.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img01-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img02.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img02-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img04.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img04-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img05.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img05-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img06.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img06-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img07.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img07-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img09.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img09-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-1024x682.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-1024x682-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-1536x1022.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-1536x1022-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-300x200.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-300x200-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10-768x511.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-768x511-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/CAN_AT3_img10.jpeg
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\CAN_AT3_img10-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-1019x1024.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1019x1024-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-1024x1029.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1024x1029-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-1074x1080.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1074x1080-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-150x150.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-150x150-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-298x300.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-298x300-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01-768x772.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-768x772-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-content/uploads/2022/10/Carte-Ptp-01-01-01.png
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-content\uploads\2022\10\Carte-Ptp-01-01-01-1.png
+Content Type: image/png
+
+Uri: https://chimenannou.com/wp-includes/css/buttons.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\css\buttons.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-includes/css/dashicons.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://chimenannou.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\fonts\dashicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://chimenannou.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\fonts\dashicons-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://chimenannou.com/wp-includes/js/comment-reply.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\comment-reply.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/dist/i18n.min.js?ver=4ab02c8fd541b8cfb8952fe260d21f16
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\imagesloaded.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\jquery\jquery-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\masonry.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\underscore.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/wp-embed.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\wp-embed.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/wp-util.min.js?ver=5.5.14
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\js\zxcvbn-async.min-1.js
+Content Type: application/javascript
+
+Uri: https://chimenannou.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://chimenannou.com/wp-login.php
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-7.html
+Content Type: text/html
+
+Uri: https://chimenannou.com/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-6.html
+Content Type: text/html
+
+Uri: https://chimenannou.com/wp-login.php?redirect_to=https:%2F%2Fchimenannou.com%2Findex.php%2F2020%2F05%2F11%2Fbonjour-tout-le-monde%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-5.html
+Content Type: text/html
+
+Uri: https://chimenannou.com/wp-login.php?redirect_to=https:%2F%2Fchimenannou.com%2Findex.php%2Fforum%2F
+File Name: C:\Downloaded Web Sites\chimenannou.com\wp-login.php-3.html
+Content Type: text/html
+
+Uri: https://chimenannou.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\chimenannou.com\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://secure.gravatar.com/avatar/71631baba5e9f15ab030a01295ed3393?s=128&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\71631baba5e9f15ab030a01295ed3393-3.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/71631baba5e9f15ab030a01295ed3393?s=48&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\71631baba5e9f15ab030a01295ed3393.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/71631baba5e9f15ab030a01295ed3393?s=64&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\71631baba5e9f15ab030a01295ed3393-1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/71631baba5e9f15ab030a01295ed3393?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\71631baba5e9f15ab030a01295ed3393-2.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/?s=112&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\none-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/?s=56&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\none.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d75b0c2d9e26cee979ac6c2825cfbd49?s=128&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d75b0c2d9e26cee979ac6c2825cfbd49-3.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d75b0c2d9e26cee979ac6c2825cfbd49?s=48&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d75b0c2d9e26cee979ac6c2825cfbd49.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d75b0c2d9e26cee979ac6c2825cfbd49?s=64&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d75b0c2d9e26cee979ac6c2825cfbd49-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d75b0c2d9e26cee979ac6c2825cfbd49?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d75b0c2d9e26cee979ac6c2825cfbd49-2.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=128&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d7a973c7dab26985da5f961be7b74480-3.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=48&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=64&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d7a973c7dab26985da5f961be7b74480-2.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\chimenannou.com\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
